@@ -1,0 +1,4 @@
+rootProject.name='blockhash-java'
+include ':blockhash-android-app'
+include ':blockhash-android-lib'
+include ':blockhash-java-lib'
